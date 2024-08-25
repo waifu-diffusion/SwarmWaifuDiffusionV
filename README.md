@@ -33,6 +33,7 @@ cd ../../
 
 Launch SwarmUI as you usually would, and you should now have a nice new `WaifuEDM` option set in the main UI.
 
-## Installation step-by-step (Swarm with custom ComfyUI)
+## Installation step-by-step (Swarm with externally-started ComfyUI)
+**Note: You are almost certainly _not_ doing this. If you're not sure, just follow the self-start instructions.**
 
 Follow the self-start instructions above, but you will also need to copy [wdv_test_nodes.py](./WaifuNodes/wdv_test_nodes.py) into your ComfyUI's `custom_nodes` folder (the extension does this automatically for swarm-managed/self-started Comfy instances.)
