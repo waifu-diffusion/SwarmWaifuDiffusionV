@@ -68,7 +68,7 @@ public class SwarmWaifuDiffusionVExtension : Extension
             Max: 2.0,
             Step: 0.01,
             ViewMin: 0.001,
-            ViewMax: 1000.0,
+            ViewMax: 2.0,
             ViewType: ParamViewType.SLIDER,
             Group: wdVGroup,
             FeatureFlag: "comfyui",
